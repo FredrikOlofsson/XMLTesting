@@ -32,7 +32,7 @@ public class Account {
         
         Marshaller marshaller = this.context.createMarshaller();
         marshaller.marshal(new Account(this.accountNumber,this.accountPassword),
-                new File("AccountData2.xml"));
+                new File("AccountData.xml"));
     }
     public void unpack() throws JAXBException {
         Unmarshaller unmarshaller = this.context.createUnmarshaller();
