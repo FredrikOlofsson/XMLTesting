@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataBase>
+    <list>
+        <accountName>fred</accountName>
+        <accountNumber>141511136</accountNumber>
+        <accountPassword>password</accountPassword>
+    </list>
+    <list>
+        <accountName>ida</accountName>
+        <accountNumber>312342335</accountNumber>
+        <accountPassword>password</accountPassword>
+    </list>
+    <list>
+        <accountName>olle</accountName>
+        <accountNumber>212312675</accountNumber>
+        <accountPassword>password</accountPassword>
+    </list>
+    <list>
+        <accountName>oaa</accountName>
+        <accountNumber>215212675</accountNumber>
+        <accountPassword>password</accountPassword>
+    </list>
+</dataBase>
