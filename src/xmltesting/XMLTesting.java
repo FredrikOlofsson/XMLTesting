@@ -24,7 +24,5 @@ public class XMLTesting {
         xml.unpack("Accounts");
         DataBase d2 = (DataBase) xml.getObject();
         
-        // DataBase data = (DataBase) xml.unpack("placeholderName.xml");       
-        
     }
 } 
